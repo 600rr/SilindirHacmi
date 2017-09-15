@@ -1,0 +1,10 @@
+c:\users\tolgac\source\repos\SilindirHacmi\SilindirHacmi\bin\Debug\SilindirHacmi.exe.config
+c:\users\tolgac\source\repos\SilindirHacmi\SilindirHacmi\bin\Debug\SilindirHacmi.exe
+c:\users\tolgac\source\repos\SilindirHacmi\SilindirHacmi\bin\Debug\SilindirHacmi.pdb
+c:\users\tolgac\source\repos\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.csprojResolveAssemblyReference.cache
+c:\users\tolgac\source\repos\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.Form1.resources
+c:\users\tolgac\source\repos\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.Properties.Resources.resources
+c:\users\tolgac\source\repos\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.csproj.GenerateResource.Cache
+c:\users\tolgac\source\repos\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.csproj.CoreCompileInputs.cache
+c:\users\tolgac\source\repos\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.exe
+c:\users\tolgac\source\repos\SilindirHacmi\SilindirHacmi\obj\Debug\SilindirHacmi.pdb
